@@ -1,0 +1,20 @@
+# executables
+*.exe
+*.out
+a.out
+trib
+tribonacci
+*.obj
+*.o
+
+# IDE / build
+build/
+cmake-build-*/
+*.cbp
+*.layout
+*.dev
+*.depend
+
+# OS
+.DS_Store
+Thumbs.db
